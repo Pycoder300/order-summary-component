@@ -1,3 +1,5 @@
 # order-summary-component
 
 I have created an order summary component card using HTML and CSS. For the HTML body, i have provided a background image in an svg format. Additionally i have provided a pale blue color as a background-color. The dimensions of this card is 450 x 700px with a display of block. Inside the card there are two more parts, one of which contains an image and below it, there is a header tag followed by a paragraph tag, a flex container having a link and an additional flex container inside it, and another paragraph tag. The active states of this card is made possible by adding hover pseudo classes of the card components like button, p tags, etc. I have also added a media query of max-width of 500px to make it responsive. When switching to smaller screens, you will not find any overflowing of contents of this card because i have added an overflow-hidden property to the card container. 
+
+You can check out the live page here at: https://pycoder300.github.io/order-summary-component/
